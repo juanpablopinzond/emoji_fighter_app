@@ -25,7 +25,7 @@ body {
     justify-content: space-around;
     align-items: center;
     flex-wrap: nowrap;
-    height: 80vh;
+    height: 90vh;
     width: 100vh;
     outline: 2px double black;
     border-radius: 10px;
@@ -50,6 +50,7 @@ button {
     background-color: #e98a1d;
     text-shadow: 2px 4px 5px black;
     line-height: 40px;
+    box-shadow: 1px 2px 5px 2px black;
 }
 
 .stage {
